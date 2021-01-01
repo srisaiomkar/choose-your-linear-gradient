@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    background: linear-gradient(to right, #f4edf5,#b62b2b);
+}
+h1{
+    letter-spacing: 0.3em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
